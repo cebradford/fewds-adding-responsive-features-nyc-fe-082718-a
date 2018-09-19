@@ -58,5 +58,8 @@
     #navbar nav a.menu-icon{
       display: block;
     }
+    h1{
+      display: none;
+    }
   }
   
